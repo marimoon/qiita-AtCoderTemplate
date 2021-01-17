@@ -18,8 +18,7 @@ Batファイル"check.bat"はコマンドプロンプト上でpythonを実行し
 
 3. 入力ファイルを設定する。  
 AtCoderの問題には、サンプルの入力例が1件～3件あります。  
-フォルダの中の"in1.txt"～"in3.txt"に入力例をコピーしましょう。
-![EditInput](https://github.com/marimoon/qiita-AtCoderTemplate/blob/main/img_readme/EditInput.JPG)
+フォルダの中の"in1.txt"～"in3.txt"に入力例をコピーしましょう。  
 
 4. 解法をmain.pyのmain()関数に書きましょう。  
 main.pyのmain()にあなたの解法を記載します。
