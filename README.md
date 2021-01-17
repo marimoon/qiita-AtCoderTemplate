@@ -8,9 +8,8 @@
 AnacondaやPythonがインストールされていること。
 
 # 環境設定方法 (Anacondaの場合)  
-Batファイル"check.bat"を実行すると、コマンドプロンプト上でpythonを実行します。  
+Batファイル"check.bat"はコマンドプロンプト上でpythonを実行します。  
 コマンドプロンプトからpythonを実行できるように環境変数PATHを設定する必要があります。  
-(特に、Anacondaをインストールしている場合)
 
 # 使用方法
 1. templateフォルダをダウンロードする。
